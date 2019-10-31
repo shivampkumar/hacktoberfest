@@ -1,4 +1,4 @@
-##Steps to Follow-
+## Steps to Follow-
 
 -->Fork this repository
 
@@ -14,5 +14,7 @@
 
 -->Push the changes to your forked repository
 
--->Send a pull request via github, I'll approve it if ti's in order.  
+-->Send a pull request via github, I'll approve it if ti's in order. 
+
+
 
